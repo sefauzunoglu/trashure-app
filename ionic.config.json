@@ -1,0 +1,7 @@
+{
+  "name": "trashure-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
